@@ -1,0 +1,20 @@
+# Python virtual environment
+venv/
+env/
+.venv/
+
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# IDE-specific files (PyCharm)
+.idea/
+
+# OS-specific files (macOS)
+.DS_Store
+
+# (Optional) If you generate any other output files you don't want to track
+# For example, if your script creates a temporary results file:
+# temp_results.txt
